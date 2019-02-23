@@ -10,7 +10,7 @@ PCB for PETlng 122mm / d33mm for iSpindel project (electronic Hydrometer)
 - 1 resistor 4k7ohm
 - 1 resistor 220kohm
 - 1 diode BAT43
-- 1 Wemos D1 mini v2 (V3 version is compatible for long pcb)
+- 1 Wemos D1 mini v3
 - 1 Gy-521 Gyro & Acceleration Sensor (MPU-6050
 - 1 Temperature Sensor (DS18B20)
 - 1 TP4056 Lipo Charger micro USB 4 pin (mini USB is bigger)
