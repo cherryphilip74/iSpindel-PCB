@@ -22,6 +22,7 @@ PCB for PETlng 122mm / d33mm for iSpindel project (electronic Hydrometer)
 ### LEARN / TOPIC / BUILD INSTRUCTIONS
 For assembly see silkscreen on both layer.
 Please mount only male pins, while to fix the battery need solder on short iron on both poles
+Assembly instructions: https://www.dropbox.com/s/5lwl436oonqsmnx/iSpindel%20PCB_assembly.pdf?dl=0
 
 Cheers!!!
 
